@@ -19,6 +19,16 @@ Jak to wygląda z punktu prawnego?
 ## Zabezpieczenia
 Opis zabezpieczeń, jakie trzeba będzie wziąć pod uwagę
 
+Zakładając, że 10% wyborców w najlepszym scenariuszu skorzystało by z aplikacji, czyli ok. 2 milionów wyborców,
+to bez problemu są to liczby do zmanipulowania przez służby, dlatego istotne jest aby możliwa była weryfikacja użytkowników w taki sposób aby wykluczyć masowe oddawanie głosów anonimowych i niezweryfikowanych.
+
+### Uwierzytelnianie
+
+numer telefonu
+numer PESEL
+imie, nazwisko, miejscowosc/okreg
+data urodzenia
+
 ### Serwer
 ...
 

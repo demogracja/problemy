@@ -29,6 +29,13 @@ numer PESEL
 imie, nazwisko, miejscowosc/okreg
 data urodzenia
 
+### Metody wyjaśniania konfliktów, błędów
+
++ jeśli zostanie popełniony błąd przez użytkownika
++ jeśli zostanie przeprowadzony celowy atak
++ jeśli będą te same dane w różnych/w tych samych okręgach
+
+
 ### Serwer
 ...
 

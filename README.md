@@ -16,3 +16,20 @@ Jak to wygląda z punktu prawnego?
 
 
 
+## Zabezpieczenia
+Opis zabezpieczeń, jakie trzeba będzie wziąć pod uwagę
+
+### Serwer
+...
+
+### Aplikacja
+
+...
+
+### Urządzenia na których aplikacja będzie uruchomiona
+
+...
+
+### Polityczne i prawne
+
+...
